@@ -12,3 +12,4 @@ unidic-lite==1.0.8
 # chinese deps
 jieba
 pypinyin
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
